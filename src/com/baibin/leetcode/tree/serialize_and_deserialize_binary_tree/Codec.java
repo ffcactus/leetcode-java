@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 public class Codec {
-    public static final String Null = "x";
+    public static final String Null = "X";
     public static final String Delimiter = ",";
 
     // Encodes a tree to a single string.
