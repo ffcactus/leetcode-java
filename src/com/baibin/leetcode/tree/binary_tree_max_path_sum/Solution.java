@@ -1,6 +1,6 @@
 package com.baibin.leetcode.tree.binary_tree_max_path_sum;
 
-import com.baibin.leetcode.tree.TreeNode;
+import com.baibin.leetcode.common.TreeNode;
 
 public class Solution {
     private int answer = Integer.MIN_VALUE;

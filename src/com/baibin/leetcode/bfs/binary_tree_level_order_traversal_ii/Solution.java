@@ -1,6 +1,6 @@
 package com.baibin.leetcode.bfs.binary_tree_level_order_traversal_ii;
 
-import com.baibin.leetcode.tree.TreeNode;
+import com.baibin.leetcode.common.TreeNode;
 
 import java.util.*;
 

@@ -1,6 +1,6 @@
 package com.baibin.leetcode.tree.serialize_and_deserialize_binary_tree;
 
-import com.baibin.leetcode.tree.TreeNode;
+import com.baibin.leetcode.common.TreeNode;
 
 import java.util.Arrays;
 import java.util.LinkedList;

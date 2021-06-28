@@ -1,4 +1,4 @@
-package com.baibin.leetcode.tree;
+package com.baibin.leetcode.common;
 
 public class TreeNode {
     public int val;
