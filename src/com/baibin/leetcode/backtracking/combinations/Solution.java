@@ -30,7 +30,7 @@ class Solution {
             return;
         }
         solution.addLast(start);
-        dfs(start+1, k);
+        dfs(start + 1, k);
         solution.removeLast();
         dfs(start + 1, k);
     }
